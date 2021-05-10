@@ -1,16 +1,15 @@
 ### Hi there, I'm Ayush - aka [andrDEv][Linkedin] 👋
 
-[![Linkedin](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://www.linkedin.com/in/ayush-jain-654617145/)](https://www.linkedin.com/in/ayush-jain-654617145/)
-[![Twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ayushja47958258)
-[![Youtube](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA)
+[![Linkedin](https://img.shields.io/website?label=andrDEv.com&style=for-the-badge&url=https://www.linkedin.com/in/ayush-jain-654617145/)](https://www.linkedin.com/in/ayush-jain-654617145/)
+[![Twitter](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=twitter)](https://twitter.com/Ayushja47958258)
+[![Youtube](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=youtube)](https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA)
 
 ## I'm a Son, Fresher, Developer, and Learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to sing and play Games
 
 
 
